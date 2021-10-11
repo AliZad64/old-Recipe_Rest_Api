@@ -1,0 +1,20 @@
+#Database#
+
+recipe:
+    name
+    photo
+    ingridents (many to many with ingrident)
+    duration
+    post date
+
+
+
+
+
+-duration time
+-amount of ingridents
+
+-whats the difference between list and List
+-what is the best practice for posting (something he said before)
+-how to load photo in the schema
+-why do we need to do List on manytomany field I DONT UNDERSTAND
